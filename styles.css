@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+.frame {
+  margin:0;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.top-container {
+  height: 50px;
+  margin: 0;
+  position: relative;
+  background-color: #1f4068;
+}
+
+p {
+  position: absolute;
+  margin: 0;
+  margin-left: 10px;
+  text-align: center;
+  left: 45%;
+  padding-top: 15px;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+img {
+  position: absolute;
+  margin-right: 10%;
+  width: 30px;
+  left: 42%;
+  padding-top: 12px;
+}
